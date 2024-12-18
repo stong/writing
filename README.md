@@ -1,6 +1,6 @@
 # Things I've Done
 
-I'm too lazy to setup and host a blog myself, so things I make usually end up (1) on the company blog; (2) in a Github gist; (3) in a Github repo; or (4) in someone else's publication.
+Hi I'm cts aka gf_256. I'm too lazy to setup and host a blog myself, so things I make usually end up (1) on the company blog; (2) in a Github gist; (3) in a Github repo; or (4) in someone else's publication.
 
 A lot of the things I write are too small to deserve a spot on the [CV](https://pwn.cat), but I still want them to be discoverable by search engines so they can help other people.
 
