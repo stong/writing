@@ -1,4 +1,4 @@
-# Things I've done
+# Things I've Done
 
 I'm too lazy to setup and host a blog myself, so things I make usually end up (1) on the company blog; (2) in a Github gist; (3) in a Github repo; or (4) in someone else's publication.
 
