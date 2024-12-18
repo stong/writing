@@ -33,3 +33,4 @@ A lot of the things I write are too small to deserve a spot on the [CV](https://
 - [Restoring an old IMSAI 8080 (2019)](https://github.com/gt-retro-computing)
 - [Sneaking into Black Hat (2019)](https://blog.perfect.blue/Sneaking-into-Blackhat-2018)
 - [gwcc: C to LC-3 compiler (2019)](https://github.com/gt-retro-computing/gwcc)
+- [perfect blue CTF writeups](https://github.com/perfectblue/ctf-writeups)
