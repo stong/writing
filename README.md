@@ -10,6 +10,7 @@ A lot of the things I write are too small to deserve a spot on the [CV](https://
 - [Fixing Windows Update error 0x80071AB1 (ERROR_LOG_GROWTH_FAILED)](https://gist.github.com/stong/c888d7fc9eae06a82357c8d06e316362)
 - [How to fix microsoft connection status indicator (NCSI)](https://gist.github.com/stong/4642a8b703c4f048825a554bfb9e562c)
 - [Calling All Hackers](https://phrack.org/issues/71/17.html#article)
+- [Vyper compiler bug bad contracts](https://twitter.com/gf_256/status/1687345639925911552)
 - [MPC From Scratch](https://www.zellic.io/blog/mpc-from-scratch/)
 - [Formal Verification of Wrapped ETH (WETH9)](https://www.zellic.io/blog/formal-verification-weth)
 - [The Auditooor Grindset](https://www.zellic.io/blog/the-auditooor-grindset/)
