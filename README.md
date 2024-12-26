@@ -5,6 +5,7 @@ Hi I'm cts aka gf_256. I'm too lazy to setup and host a blog myself, so things I
 A lot of the things I write are too small to deserve a spot on the [CV](https://pwn.cat), but I still want them to be discoverable by search engines so they can help other people.
 
 - [Funny tweets](https://x.com/gf_256/status/1562994921253904384)
+- [Flare-On Challenge 2024: Videos](https://www.youtube.com/watch?v=vwW9xvr3TcI&list=PLYP-7_bD0kQEJ51srPqQY7QUc2VNYN8uN&index=1)
 - [Flare-On Challenge 2024 Writeups](https://github.com/stong/flare-on-2024-writeups)
 - [Hooking nvml](https://x.com/gf_256/status/1856660339154387238) - ([Gist](https://gist.github.com/stong/24b7f6f5d591f690c4094f647f55bbc7))
 - [Fixing Windows Update error 0x80071AB1 (ERROR_LOG_GROWTH_FAILED)](https://gist.github.com/stong/c888d7fc9eae06a82357c8d06e316362)
