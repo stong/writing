@@ -4,6 +4,7 @@ Hi I'm cts aka gf_256. I'm too lazy to setup and host a blog myself, so things I
 
 A lot of the things I write are too small to deserve a spot on the [CV](https://pwn.cat), but I still want them to be discoverable by search engines so they can help other people.
 
+- [tldw.tube: Too Long, Didn't Watch! -- YouTube video summarizer](https://x.com/gf_256/status/1877925388950589561)
 - [Funny tweets](https://x.com/gf_256/status/1562994921253904384)
 - [Flare-On Challenge 2024: Videos](https://www.youtube.com/watch?v=vwW9xvr3TcI&list=PLYP-7_bD0kQEJ51srPqQY7QUc2VNYN8uN&index=1)
 - [Flare-On Challenge 2024 Writeups](https://github.com/stong/flare-on-2024-writeups)
