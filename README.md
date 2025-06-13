@@ -10,6 +10,7 @@ A lot of the things I write are too small to deserve a spot on the [CV](https://
 - [Reverse Engineering an Ableton Crack](https://x.com/gf_256/status/1782656618015904103) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=40132719)
 - [Calling All Hackers](https://phrack.org/issues/71/17.html#article) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=41306128)
 - [This bug doesn’t exist on x86: How to exploit a double free](https://github.com/stong/how-to-exploit-a-double-free) - ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=28996500)
+- [Hunting for bugs in 4chan](https://x.com/gf_256/status/1912559988402184506) ⭐ Viral on Twitter
 - [The Auditooor Grindset](https://www.zellic.io/blog/the-auditooor-grindset/)
 - [Infosec Resources guide](https://github.com/stong/infosec-resources)
 - [PlaidCTF 2020: That's a Lot of Fish (2020)](https://blog.perfect.blue/Lot-of-Fish-PlaidCTF-2020) - ⭐ [Twitter thread](https://x.com/gf_256/status/1907530849681019244)
