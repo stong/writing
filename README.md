@@ -21,6 +21,7 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 
 ## Everything else
 
+- [X / Twitter uBlock Origin rules](https://gist.github.com/stong/1aa7883767a5c9a6c7076746b1ede1d0) 
 - [Bad Post Firewall](https://x.com/gf_256/status/1886657138661188083)
 - [Flare-On Challenge 2024: Videos](https://www.youtube.com/watch?v=vwW9xvr3TcI&list=PLYP-7_bD0kQEJ51srPqQY7QUc2VNYN8uN&index=1)
 - [Flare-On Challenge 2024 Writeups](https://github.com/stong/flare-on-2024-writeups)
