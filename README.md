@@ -9,7 +9,7 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 - [Senatordle](https://senatordle.com) - ⭐ [Hit Tweet](https://x.com/gf_256/status/2002997989221306753)
 - [tldw.tube — Too Long, Didn't Watch! YouTube video summarizer](https://x.com/gf_256/status/1877925388950589561) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=43021044)
 - [Reverse Engineering an Ableton Crack](https://x.com/gf_256/status/1782656618015904103) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=40132719)
-- [Calling All Hackers](https://phrack.org/issues/71/17.html#article) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=41306128)
+- [Calling All Hackers](https://phrack.org/issues/71/17.html#article) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=41306128) [[DEF CON Panel]](https://www.youtube.com/watch?v=TW-D1I27E08&t=1328s)
 - [This bug doesn’t exist on x86: How to exploit a double free](https://github.com/stong/how-to-exploit-a-double-free) - ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=28996500)
 - [The Auditooor Grindset](https://www.zellic.io/blog/the-auditooor-grindset/)
 - [Infosec Resources guide](https://github.com/stong/infosec-resources)
