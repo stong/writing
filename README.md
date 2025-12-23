@@ -6,6 +6,7 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 
 ## Greatest hits
 
+- [Senatordle] - ⭐ [[Viral Tweet]](https://x.com/gf_256/status/2002997989221306753)
 - [tldw.tube — Too Long, Didn't Watch! YouTube video summarizer](https://x.com/gf_256/status/1877925388950589561) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=43021044)
 - [Reverse Engineering an Ableton Crack](https://x.com/gf_256/status/1782656618015904103) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=40132719)
 - [Calling All Hackers](https://phrack.org/issues/71/17.html#article) — ⭐ [[Featured on HN]](https://news.ycombinator.com/item?id=41306128)
@@ -17,10 +18,11 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 - [Hunting for bugs in 4chan](https://x.com/gf_256/status/1912559988402184506) - ⭐ [Twitter thread](https://x.com/gf_256/status/1912559988402184506)
 - [WINNIE: COTS Windows fuzzing with fork() (NDSS'21)](https://www.ndss-symposium.org/ndss-paper/winnie-fuzzing-windows-applications-with-harness-synthesis-and-fast-cloning/)
 - [Binary Ninja Signature Libraries (2020)](https://binary.ninja/2020/03/11/signature-libraries.html)
-- [Funny tweets](https://x.com/gf_256/status/1562994921253904384)
+- [Hit tweets](https://x.com/gf_256/status/1562994921253904384)
 
 ## Everything else
 
+- [CTF Purity Test](https://ctfpuritytest.com/)
 - [X / Twitter uBlock Origin rules](https://gist.github.com/stong/1aa7883767a5c9a6c7076746b1ede1d0) 
 - [Bad Post Firewall](https://x.com/gf_256/status/1886657138661188083)
 - [Flare-On Challenge 2024: Videos](https://www.youtube.com/watch?v=vwW9xvr3TcI&list=PLYP-7_bD0kQEJ51srPqQY7QUc2VNYN8uN&index=1)
