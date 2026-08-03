@@ -6,6 +6,7 @@ I'm too lazy to setup and host a blog myself, so things I make usually end up (1
 
 ## Greatest hits
 
+- [How to Raise a $10M Seed Round](https://v12.sh/blog/how-to-raise-a-10m-seed-round) - [⭐ Hit Tweet](https://x.com/gf_256/status/2082893511502766168)
 - [Bad Apple in ASCII Art](https://bad.apple.zellic.io) - [⭐ Hit Tweet](https://x.com/gf_256/status/2015012967427854573)
 - [Gradscii: Subpixel ASCII Art via Gradient Descent](https://github.com/stong/gradscii-art/tree/master) - [⭐ Hit Tweet](https://x.com/gf_256/status/2014722218077376607)
 - [Stripe Press Annas Archive Extension](https://github.com/stong/stripe-press-helper) - [⭐ Hit Tweet](https://x.com/gf_256/status/2009085456181547074)
