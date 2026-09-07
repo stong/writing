@@ -4,12 +4,8 @@ Hi I'm cts aka gf_256. This is a list of most things I've worked on.
 
 I'm too lazy to setup and host a blog myself, so things I make usually end up (0) Twitter; (1) on the company blog; (2) in a Github gist; (3) in a Github repo; or (4) in someone else's publication. A lot of the things I write are too small to deserve a spot on the [homepage](https://pwn.cat), but I still want them to be discoverable by search engines so they can help other people.
 
-## Viral tweets
-
-I've written a bunch of these so I made a browser for my tweets: [tweets.pwn.cat](https://tweets.pwn.cat)
-
 ## Greatest hits
-
+- [Viral tweets](https://tweets.pwn.cat)
 - [How to Raise a $10M Seed Round](https://v12.sh/blog/how-to-raise-a-10m-seed-round) - [⭐ Hit Tweet](https://x.com/gf_256/status/2082893511502766168)
 - [Bad Apple in ASCII Art](https://bad.apple.zellic.io) - [⭐ Hit Tweet](https://x.com/gf_256/status/2015012967427854573)
 - [Gradscii: Subpixel ASCII Art via Gradient Descent](https://github.com/stong/gradscii-art/tree/master) - [⭐ Hit Tweet](https://x.com/gf_256/status/2014722218077376607)
@@ -26,7 +22,6 @@ I've written a bunch of these so I made a browser for my tweets: [tweets.pwn.cat
 - [Hunting for bugs in 4chan](https://x.com/gf_256/status/1912559988402184506) - ⭐ [Twitter thread](https://x.com/gf_256/status/1912559988402184506)
 - [WINNIE: COTS Windows fuzzing with fork() (NDSS'21)](https://www.ndss-symposium.org/ndss-paper/winnie-fuzzing-windows-applications-with-harness-synthesis-and-fast-cloning/)
 - [Binary Ninja Signature Libraries (2020)](https://binary.ninja/2020/03/11/signature-libraries.html)
-- [Hit tweets](https://x.com/gf_256/status/1562994921253904384)
 
 ## Creative Writing
 - [Don't leave your server out, it'll grow mold](https://x.com/gf_256/status/2018844976486945112) ⭐ Hit Tweet
